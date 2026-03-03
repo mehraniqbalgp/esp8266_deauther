@@ -229,11 +229,21 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+## 👤 Author
+
+**Mehran Iqbal**
+
+- 🔗 GitHub: [@mehraniqbalgp](https://github.com/mehraniqbalgp)
+- 💼 LinkedIn: [mehraniqbalgp](https://linkedin.com/in/mehraniqbalgp)
+- 🌐 Website: [retrax.co](https://retrax.co)
+
+---
+
 ## 🙏 Credits
 
 - Original concept & core codebase by [SpacehuhnTech](https://github.com/SpacehuhnTech/esp8266_deauther)
 - Hardware designs by [DSTIKE](https://dstike.com/)
-- Maintained by **mehraniqbalgp**
+- Maintained by **Mehran Iqbal** ([@mehraniqbalgp](https://github.com/mehraniqbalgp))
 
 ---
 
